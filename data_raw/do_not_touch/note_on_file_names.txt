@@ -1,0 +1,7 @@
+I added at the beginning of original file names, '20XX_' for the year in question.
+For example, I renamed that file:
+'MissingMigrants-Global-2022-01-25--21_26_48'
+as:
+'2021_MissingMigrants-Global-2022-01-25--21_26_48'
+
+Further, in data actually processed (main 'raw_data' folder), I kept only the year as the file title. For example, the file mentioned above was renamed just '2021'
